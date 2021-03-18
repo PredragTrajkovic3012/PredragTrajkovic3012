@@ -7,12 +7,5 @@ I also want to find out what my current options are and improve them.
 I live in Belgrade.In my free time I like to play sports and play CS:GO😎
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PredragTrajkovic3012/PredragTrajkovic3012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PredragTrajkovic3012)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PredragTrajkovic3012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
